@@ -41,7 +41,7 @@ content:
         caption: 2021.10.06 ~ ing
         description: |
           ## I am operating as a solo validator for Cosmos-based chains.<br><br>
-          ## Chains 
+          ## Validator  
             - Band Protocol
               - Activate validator : 2021.10.06 ~ 2023.07.13
               - Activate Yoda : 2021.10.06 ~ 2023.07.13
@@ -75,7 +75,7 @@ content:
         caption: 2023.01 ~ ing
         
         description: |
-          ## Contributions 
+          ## Beginner 
             - Slack Bot 
               - Wakatime bot : 2023.03.05 ~ ing 
               - Calendar reminder bot with Notion : 2023.04.23 ~ ing 
