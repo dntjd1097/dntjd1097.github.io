@@ -62,16 +62,7 @@ content:
             - Archway 
               - Activate Torii testnet validator : 2022.03 ~ 2022.04
 
-          <br><br>
-          ## Technologies Used 
-            - Frontend : <mark>React</mark>
-            - Backend : <mark>Python</mark> , <mark>Golang</mark> , <mark>node.js</mark>
-            - DB : <mark>MySQL</mark>
-            - Monitoring : <mark>Telegram</mark> , <mark>Discord</mark> , <mark>Grafana</mark> , <mark>Tenderduty</mark> , <mark>PM2</mark> , <mark>PagerDuty</mark>
-            - OS : <mark>Linux</mark> , <mark>Microsoft Windows</mark> , <mark>macOS</mark>
-            - Server : <mark>OVH</mark> , <mark>AWS</mark>
-            - Tools : <mark>Git</mark> , <mark>Notion</mark>
-          <br><br>
+
       - layout: left
         title: Google Developer Student Club (GDSC DJU)
         additional_links:
@@ -82,6 +73,7 @@ content:
             icon: fab fa-github
             url: github.com/GDSC-Daejin
         caption: 2023.01 ~ ing
+        
         description: |
           ## Contributions 
             - Slack Bot 
@@ -94,15 +86,7 @@ content:
             - Frontend 
               - GDSC teddy website : 2023.03.10 ~ ing
 
-          <br><br>
-          ## Technologies Used 
-            - Frontend : <mark>React</mark>
-            - Backend : <mark>Python</mark>
-            - DB : <mark>MySQL</mark>
-            - Monitoring : <mark>Grafana</mark>
-            - OS : <mark>Linux</mark> , <mark>Microsoft Windows</mark> , <mark>macOS</mark>
-            - Server : <mark>Oracle</mark>
-            - Tools : <mark>Git</mark> , <mark>Discord</mark> , <mark>Slack</mark> , <mark>Notion</mark>
+
   - title: Education
     layout: list
     content:
@@ -127,3 +111,26 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+          # <br><br>
+          # ## Technologies Used 
+          #   - Frontend : <mark>React</mark>
+          #   - Backend : <mark>Python</mark> , <mark>Golang</mark> , <mark>node.js</mark>
+          #   - DB : <mark>MySQL</mark>
+          #   - Monitoring : <mark>Telegram</mark> , <mark>Discord</mark> , <mark>Grafana</mark> , <mark>Tenderduty</mark> , <mark>PM2</mark> , <mark>PagerDuty</mark>
+          #   - OS : <mark>Linux</mark> , <mark>Microsoft Windows</mark> , <mark>macOS</mark>
+          #   - Server : <mark>OVH</mark> , <mark>AWS</mark>
+          #   - Tools : <mark>Git</mark> , <mark>Notion</mark>
+          # <br><br>
+
+
+
+          #           <br><br>
+          # ## Technologies Used 
+          #   - Frontend : <mark>React</mark>
+          #   - Backend : <mark>Python</mark>
+          #   - DB : <mark>MySQL</mark>
+          #   - Monitoring : <mark>Grafana</mark>
+          #   - OS : <mark>Linux</mark> , <mark>Microsoft Windows</mark> , <mark>macOS</mark>
+          #   - Server : <mark>Oracle</mark>
+          #   - Tools : <mark>Git</mark> , <mark>Discord</mark> , <mark>Slack</mark> , <mark>Notion</mark>
