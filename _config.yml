@@ -71,7 +71,7 @@ content:
             - OS : <mark>Linux</mark> , <mark>Microsoft Windows</mark> , <mark>macOS</mark>
             - Server : <mark>OVH</mark> , <mark>AWS</mark>
             - Tools : <mark>Git</mark> , <mark>Notion</mark>
-
+          <br><br>
       - layout: left
         title: Google Developer Student Club (GDSC DJU)
         link: gdscdju.dev
