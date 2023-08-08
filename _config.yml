@@ -34,8 +34,10 @@ content:
     content:
       - layout: left
         title: MKV.one
-        link: mkv.one
-        icon: fas fa-globe
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: mkv.one
         caption: 2021.10.06 ~ ing
         description: |
           ## I am operating as a solo validator for Cosmos-based chains.<br><br>
