@@ -62,12 +62,12 @@ content:
           <br><br>
           ## Technologies Used 
             - Frontend : <mark>React</mark>
-            - Backend : <mark>Python</mark>, <mark>Golang</mark>, <mark>node.js</mark>
+            - Backend : <mark>Python</mark> , <mark>Golang</mark> , <mark>node.js</mark>
             - DB : <mark>MySQL</mark>
-            - Monitoring : <mark>Telegram</mark>, <mark>Discord</mark>, <mark>Grafana</mark>, <mark>Tenderduty</mark>, <mark>PM2</mark>, <mark>PagerDuty</mark>
-            - OS : <mark>Linux</mark>, <mark>Microsoft Windows</mark>, <mark>macOS</mark>
-            - Server : <mark>OVH</mark>, <mark>AWS</mark>
-            - Tools : <mark>Git</mark>, <mark>Notion</mark>
+            - Monitoring : <mark>Telegram</mark> , <mark>Discord</mark> , <mark>Grafana</mark> , <mark>Tenderduty</mark> , <mark>PM2</mark> , <mark>PagerDuty</mark>
+            - OS : <mark>Linux</mark> , <mark>Microsoft Windows</mark> , <mark>macOS</mark>
+            - Server : <mark>OVH</mark> , <mark>AWS</mark>
+            - Tools : <mark>Git</mark> , <mark>Notion</mark>
 
       - layout: left
         title: Google Developer Student Club (GDSC DJU)
@@ -91,9 +91,9 @@ content:
             - Backend : <mark>Python</mark>
             - DB : <mark>MySQL</mark>
             - Monitoring : <mark>Grafana</mark>
-            - OS : <mark>Linux</mark>, <mark>Microsoft Windows</mark>, <mark>macOS</mark>
+            - OS : <mark>Linux</mark> , <mark>Microsoft Windows</mark> , <mark>macOS</mark>
             - Server : <mark>Oracle</mark>
-            - Tools : <mark>Git</mark>, <mark>Discord</mark>, <mark>Slack</mark>, <mark>Notion</mark>
+            - Tools : <mark>Git</mark> , <mark>Discord</mark> , <mark>Slack</mark> , <mark>Notion</mark>
   - title: Education
     layout: list
     content:
