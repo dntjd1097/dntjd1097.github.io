@@ -33,6 +33,28 @@ content:
     layout: list
     content:
       - layout: left
+        title: Google Developer Student Club (GDSC DJU)
+        additional_links:
+          - title: Homepage
+            icon: fas fa-globe
+            url: gdscdju.dev
+          - title:  Github
+            icon: fab fa-github
+            url: github.com/GDSC-Daejin
+        caption: 2023.01 ~ ing
+        
+        description: |
+          ## Begginner 
+            - Slack Bot 
+              - Wakatime bot : 2023.03.05 ~ ing 
+              - Calendar reminder bot with Notion : 2023.04.23 ~ ing 
+              - Palm chat bot : 2023.06.17 ~ ing
+              - Discord & Slack sync Bot : 2023.08.02 ~ ing
+            - Discord Bot
+              - Discord & Slack sync Bot : 2023.08.02 ~ ing
+            - Frontend 
+              - GDSC teddy website : 2023.03.10 ~ ing
+      - layout: left
         title: MKV.one
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -63,28 +85,7 @@ content:
               - Activate Torii testnet validator : 2022.03 ~ 2022.04
 
 
-      - layout: left
-        title: Google Developer Student Club (GDSC DJU)
-        additional_links:
-          - title: Homepage
-            icon: fas fa-globe
-            url: gdscdju.dev
-          - title:  Github
-            icon: fab fa-github
-            url: github.com/GDSC-Daejin
-        caption: 2023.01 ~ ing
-        
-        description: |
-          ## Beginner 
-            - Slack Bot 
-              - Wakatime bot : 2023.03.05 ~ ing 
-              - Calendar reminder bot with Notion : 2023.04.23 ~ ing 
-              - Palm chat bot : 2023.06.17 ~ ing
-              - Discord & Slack sync Bot : 2023.08.02 ~ ing
-            - Discord Bot
-              - Discord & Slack sync Bot : 2023.08.02 ~ ing
-            - Frontend 
-              - GDSC teddy website : 2023.03.10 ~ ing
+
 
 
   - title: Education
