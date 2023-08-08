@@ -35,6 +35,7 @@ content:
       - layout: left
         title: MKV.one
         link: mkv.one
+        icon: fas fa-globe
         caption: 2021.10.06 ~ ing
         description: |
           ## I am operating as a solo validator for Cosmos-based chains.<br><br>
