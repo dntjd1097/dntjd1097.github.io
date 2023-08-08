@@ -36,7 +36,7 @@ content:
         title: MKV.one
         additional_links:
           - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
+            icon: fas fa-globe
             url: mkv.one
         caption: 2021.10.06 ~ ing
         description: |
@@ -74,7 +74,13 @@ content:
           <br><br>
       - layout: left
         title: Google Developer Student Club (GDSC DJU)
-        link: gdscdju.dev
+        additional_links:
+          - title: Homepage
+            icon: fas fa-globe
+            url: gdscdju.dev
+          - title:  Github
+            icon: fab fa-github
+            url: github.com/GDSC-Daejin
         caption: 2023.01 ~ ing
         description: |
           ## Contributions 
