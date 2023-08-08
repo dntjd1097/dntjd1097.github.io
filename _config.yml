@@ -25,7 +25,7 @@ additional_links:
 # About Section
 about_profile_image: images/profile.jpg
 about_content: | 
-  Hello. My name is Wooseong Jung. <br>I am a blockchain developer and a DevOps engineer. <br>Currently, I am a validator under the names MKV.one for projects such as Kava, E-money, Konstellation, and Odin.
+  Hello. My name is <b>Wooseong Jung<b> <br>I am a blockchain developer and a DevOps engineer. <br>Currently, I am a validator under the names MKV.one for projects such as Kava, E-money, Konstellation, and Odin.
   <br>I am most skilled in: <mark>Python</mark> , <mark>Ubuntu</mark> and <mark>bots</mark> on Discord, Telegram, Slack
 
 content:
@@ -37,7 +37,7 @@ content:
         link: mkv.one
         caption: 2021.10.06 ~ ing
         description: |
-          I am operating as a solo validator for Cosmos-based chains.<br><br>
+          ## I am operating as a solo validator for Cosmos-based chains.<br><br>
           ## Chains 
             - Band Protocol
               - Activate validator : 2021.10.06 ~ 2023.07.13
