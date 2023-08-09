@@ -45,13 +45,8 @@ content:
         
         description: |
           ## Begginner 
-            - Slack Bot 
-              - Wakatime bot : 2023.03.05 ~ ing 
-              - Calendar reminder bot with Notion : 2023.04.23 ~ ing 
-              - Palm chat bot : 2023.06.17 ~ ing
-              - Discord & Slack sync Bot : 2023.08.02 ~ ing
-            - Discord Bot
-              - Discord & Slack sync Bot : 2023.08.02 ~ ing
+            - Bot 
+              - Wakatime bot , Calendar Reminder bot with Notion , Palm chat bot, Discord & Slack sync Bot
             - Frontend 
               - GDSC teddy website : 2023.03.10 ~ ing
           <br><br><br>
@@ -64,30 +59,10 @@ content:
         caption: 2021.10.06 ~ ing
         description: |
           ## I am operating as a solo validator for Cosmos-based chains.<br><br>
-          ## Validator  
-            - Band Protocol
-              - Activate validator : 2021.10.06 ~ 2023.07.13
-              - Activate Yoda : 2021.10.06 ~ 2023.07.13
-            - e-Money
-              - Activate validator : 2021.10.17 ~ ing
-            - Kava
-              - Activate validator : 2021.10.31 ~ ing
-              - Activate relayor : 2022.03.19 ~ ing
-            - Konstellation
-              - Activate validator : 2022.02.28 ~ ing
-            - Odin Protocol
-              - Activate validator : 2022.03.20 ~ ing
-              - Activate Yoda : 2022.03.20 ~ ing 
-            - Osmosis
-              - Activate relayor : 2022.03.19 ~ ing
-            - Terra Classic
-              - Activate relayor : 2022.03.19 ~ 2022.08.04
-            - Archway 
-              - Activate Torii testnet validator : 2022.03 ~ 2022.04
-
-
-
-
+          ## Blockchain Devops
+            - Validator : Band Protocol, Kava, E-money, Konstellation, Odin Protocol, Archway (torii testnet), umee (testnet)
+            - Relayor : Kava, Osmosis, Terra Classic 
+            - Yoda : Odin Protocol , Band Protocol 
 
   - title: Education
     layout: list
@@ -113,7 +88,27 @@ sass:
 
 plugins:
  - jekyll-seo-tag
-
+# ## Validator
+#             - Activate Validator 
+#               - Band Protocol
+#               - Activate validator : 2021.10.06 ~ 2023.07.13
+#               - Activate Yoda : 2021.10.06 ~ 2023.07.13
+#               - e-Money
+#               - Activate validator : 2021.10.17 ~ ing
+#               - Kava
+#               - Activate validator : 2021.10.31 ~ ing
+#               - Activate relayor : 2022.03.19 ~ ing
+#               - Konstellation
+#               - Activate validator : 2022.02.28 ~ ing
+#               - Odin Protocol
+#               - Activate validator : 2022.03.20 ~ ing
+#               - Activate Yoda : 2022.03.20 ~ ing 
+#               - Osmosis
+#               - Activate relayor : 2022.03.19 ~ ing
+#               - Terra Classic
+#               - Activate relayor : 2022.03.19 ~ 2022.08.04
+#               - Archway 
+#             - Activate Relayor 
           # <br><br>
           # ## Technologies Used 
           #   - Frontend : <mark>React</mark>
